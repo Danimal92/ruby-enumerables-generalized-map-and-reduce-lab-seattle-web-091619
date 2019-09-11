@@ -9,3 +9,6 @@ while i < arg.length
   return new
 end  
   
+def reduce(array,starting_value = nil)
+  
+end

@@ -1,6 +1,6 @@
 def map(arg)
 
-yield
+yield(arg)
 
   
   

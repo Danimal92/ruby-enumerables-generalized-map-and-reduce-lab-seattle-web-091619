@@ -9,4 +9,3 @@ while i < source_array.length
   return new
 end  
   
-end
